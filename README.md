@@ -1,2 +1,2 @@
-# mtbc-2-april
+# Microtrain Dev Bootcamp
 microtrain bootcamp
